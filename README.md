@@ -1,2 +1,2 @@
 # Eco
-Test of Ecommerce for IDEO X
+this is a example for landing page - IDEO X
